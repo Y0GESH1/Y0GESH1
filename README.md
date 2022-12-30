@@ -42,4 +42,6 @@ Languages & Technologies: `SIEM : IBM QRADAR `,`FireEye Tools : [HX(Host Securit
 <br/>
 <br/>
 
+Certifications:
+* [**ECPPTV2 : eLearnSecurity Certified Professional Penetration Tester**](https://elearnsecurity.com/product/ecpptv2-certification/) • In-progress
 
