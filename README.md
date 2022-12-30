@@ -2,7 +2,8 @@
 
 I have been working as a cybersecurity analyst for last couple years and i try to learn both defensive and offenisve aspects of security.This includes alot of different things log analysis , system and network analysis , Threat hunting with mitre framework.
 
-In my job, i get to play around alot of different types of environments and systems 
+In my job, i get to play around alot of different types of environments and systems to make sure they are configured correctly for security use cases.
+
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,nginx,aws,gcp,azure,github,)](https://skillicons.dev)
 
 As a security analyst (SOC Analyst), i get to work with alot of smart people and a number of Expensive toys
