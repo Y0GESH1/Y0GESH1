@@ -2,6 +2,9 @@
 
 I have been working as a cybersecurity analyst for last couple years and i try to learn both defensive and offenisve aspects of security.This includes alot of different things log analysis , system and network analysis , Threat hunting with mitre framework.
 
+In my job, i get to play around alot of different types of environments and systems 
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,nginx,aws,gcp,azure,github,)](https://skillicons.dev)
+
 As a security analyst (SOC Analyst), i get to work with alot of smart people and a number of Expensive toys
 * IBM Qradar
 * Steller Cyber XDR
@@ -12,9 +15,10 @@ But i like to build my tools as a bobby so I play around with python whenever i 
 
 [![My Skills](https://skillicons.dev/icons?i=python,powershell,bash,golang,solidity)](https://skillicons.dev)
 
-In my job, i get to play around alot of different types of environments and systems 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,nginx,aws,gcp,azure,github,)](https://skillicons.dev)
-
+Recently i traded in my blue shirt for a red one and started moving towards offensive side.
+* Nessus Scanner
+* Rapid7 Nexpose Scanner
+* Metasploit
 
  ### Work Experience
 <img align="right" src="https://github.com/Y0GESH1/Y0GESH1/blob/main/tools/soc%20life.gif" />
