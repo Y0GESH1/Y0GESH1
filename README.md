@@ -38,6 +38,7 @@ Languages & Technologies: `SIEM : Steller Cyber XDR (Starlight) `,`FireEye Tools
 
 **SOC Analyst / Threat Hunter** \
 [**Rewterz**](https://https://www.rewterz.com/) • Full Time \
+Time Period :March 2019 - Feb 2021 \
 Languages & Technologies: `SIEM : IBM QRADAR `,`FireEye Tools : [HX(Host Security) , NX(Network Security) , EX(Email Security)]`, `Programming Language : Python`, `Network Analysis Tools : [wireshark , tcpdump]`, `Windows Analysis : Sysmon`, `Memeory Analysis : Volatility`\
 <br/>
 <br/>
@@ -50,8 +51,10 @@ Certifications:
 <p align="center">
 <a href="https://pk.linkedin.com/in/yogesh-motwani-51a882205" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a href="https://twitter.com/Y0gesh123" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<a href="yogeshkumarmotwani@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a href="mailto:yogeshkumarmotwani@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://www.instagram.com/yogi_kumarr/"><img src="https://img.shields.io/badge/-github-171515?style=for-the-badge&logo=github&logoColor=white"></img></a>
 <a target="_blank" href="https://www.instagram.com/yogi_kumarr/"><img src="https://img.shields.io/badge/-instagram-4c68d7?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+
 <!-- <a target="_blank" href=""><img src="https://img.shields.io/badge/-snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></img></a>
  -->
 <br>
