@@ -1,8 +1,8 @@
-<h1>Hi, I'm Yogesh  <br/><a href="https://github.com/joshmadakor1">SOC Analyst , RedTeamer</a> and  a <a href="">Coder</a></h1>
+<h1>Hi, I'm Yogesh  <br/><a href="">SOC Analyst , RedTeamer</a> and sometimes a <a href="">Coder</a></h1>
 
-I have been working as a cybersecurity analyst for last couple years and i try to learn both defensive and offenisve aspects of security.This includes alot of different things log analysis , system and network analysis , Threat hunting with mitre framework.
+I have been working as a cybersecurity analyst for last couple years (since 2019) and i try to learn both defensive and offenisve aspects of security.This includes alot of different things log analysis , system and network forensic analysis , Threat hunting with mitre framework.
 
-In my job, i get to play around alot of different types of environments and systems to make sure they are configured correctly for security use cases.
+In my job, i get to play around with alot of different types of environments and systems to make sure they are configured correctly for security use cases.
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,nginx,aws,gcp,azure,github,)](https://skillicons.dev)
 
@@ -12,7 +12,7 @@ As a security analyst (SOC Analyst), i get to work with alot of smart people and
 * Splunk
 * FireEye [HX , NX , EX]
 
-But i like to build my tools as a bobby so I play around with python whenever i get the chance, but i do play around with ther languages as well :hammer:
+But i like to build my own tools for custom use cases so I play around with python and some other languages whenever i get the chance. :hammer:
 
 [![My Skills](https://skillicons.dev/icons?i=python,powershell,bash,golang,solidity)](https://skillicons.dev)
 
