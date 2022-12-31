@@ -21,7 +21,7 @@ Recently i traded in my blue shirt for a red one and started moving towards offe
 * Rapid7 Nexpose Scanner
 * Metasploit
 
- ### Work Experience (And YES the gif preety much explains what i do)
+ ### Work Experience (And YES the gif pretty much explains what i do)
 <img align="right" src="https://github.com/Y0GESH1/Y0GESH1/blob/main/Work%20Experience/soc%20life.gif" />
 In the overview below you will find my most recent work experience:
 
