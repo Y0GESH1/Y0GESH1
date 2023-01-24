@@ -30,7 +30,7 @@ In the overview below you will find my most recent work experience:
 **Senior Soc Analyst / Team Lead** \
 [**SuperSecure**](https://supersecure.pk/) • Full Time \
 Time Period :May 3rd 2021 - Jan 1st 2023 \
-Languages & Technologies: `SIEM : Steller Cyber XDR (Starlight) `,`FireEye Tools : [HX(Host Security) , NX(Network Security) , EX(Email Security)]`, `Programming Language : Python , bash , powershell`, `Network Analysis Tools : [wireshark , tcpdump , zeek]`, `Windows Analysis : Sysmon`, `Memeory Analysis : Volatility`\
+Languages & Technologies: `SIEM : Steller Cyber XDR (Starlight) `,`FireEye Tools : [HX(Host Security) , NX(Network Security) , EX(Email Security)]`, `Programming Language : Python , bash , powershell`, `Network Analysis Tools : [wireshark , tcpdump , zeek]`, `Windows Analysis : Sysmon`, `Memeory Analysis : Volatility`, `Vulnerability Assesment : Rapid7 Nexpose , Nessus`\
 <br/>
 <br/>
 
