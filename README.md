@@ -43,6 +43,9 @@ Languages & Technologies: `SIEM : IBM QRADAR `,`FireEye Tools : [HX(Host Securit
 <br/>
 <br/>
 
+**TRYHACKME Stats** \
+<img src="https://tryhackme-badges.s3.amazonaws.com/Yogesh1.png" alt="TryHackMe">
+
 Certifications:
 * [**ECPPTV2 : eLearnSecurity Certified Professional Penetration Tester**](https://elearnsecurity.com/product/ecpptv2-certification/) • In-progress
 
