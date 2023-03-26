@@ -25,6 +25,18 @@ Recently i traded in my blue shirt for a red one and started moving towards offe
 <img align="right" src="https://github.com/Y0GESH1/Y0GESH1/blob/main/Work%20Experience/soc%20life.gif" />
 In the overview below you will find my most recent work experience:
 
+
+
+[<img align="left" height="94px" width="200px" alt="Warpnet" src="https://github.com/Y0GESH1/Y0GESH1/blob/main/Work%20Experience/daraz.png?raw=true"/>](https://warpnet.nl/)
+**Senior Soc Analyst / Threat Hunter** \
+[**Daraz**](https://daraz.pk/) • Full Time \
+Time Period : March 20213 -  \
+Languages & Technologies: `Programming Language : Python , bash , powershell`, `Network Analysis Tools : [wireshark , tcpdump , zeek]`, `Windows Analysis : Sysmon`, `Memeory Analysis : Volatility`, `Vulnerability Assesment : Rapid7 Nexpose , Nessus`\
+<br/>
+<br/>
+
+
+
 [<img align="left" height="94px" width="200px" alt="Warpnet" src="https://github.com/Y0GESH1/Y0GESH1/blob/main/Work%20Experience/supersecure.jpg?raw=true"/>](https://warpnet.nl/)
 
 **Senior Soc Analyst / Team Lead** \
