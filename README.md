@@ -14,7 +14,7 @@ As a security analyst (SOC Analyst), i get to work with alot of smart people and
 
 But i like to build my own tools for custom use cases so I play around with python and some other languages whenever i get the chance. :hammer:
 
-[![My Skills](https://skillicons.dev/icons?i=python,powershell,bash,golang,solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,powershell,bash)](https://skillicons.dev)
 
 Recently i traded in my blue shirt for a red one and started moving towards offensive side.
 * Nessus Scanner
