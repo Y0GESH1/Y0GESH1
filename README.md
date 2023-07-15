@@ -4,7 +4,7 @@ I have been working as a cybersecurity analyst for last couple years (since 2019
 
 In my job, i get to play around with alot of different types of environments and systems to make sure they are configured correctly for security use cases.
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,nginx,aws,gcp,azure,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,nginx,azure,github,)](https://skillicons.dev)
 
 As a security analyst (SOC Analyst), i get to work with alot of smart people and a number of Expensive toys
 * IBM Qradar
