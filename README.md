@@ -58,7 +58,9 @@ Languages & Technologies: `SIEM : IBM QRADAR `,`FireEye Tools : [HX(Host Securit
 
 
 Certifications:
-* [**ECPPTV2 : eLearnSecurity Certified Professional Penetration Tester**](https://elearnsecurity.com/product/ecpptv2-certification/) • In-progress
+* [**AZ500 : Microsoft Azure Security Technologies**]() • In-progress
+* [**EJPT : eLearnSecurity Junior Penetration Tester**]() • In-progress
+
 
 <br/>
 <h2 align="center"> 🤳 Connect with me:</h2>
