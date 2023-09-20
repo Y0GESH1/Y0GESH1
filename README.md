@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yogesh  <br/><a href="https://pk.linkedin.com/in/yogesh-motwani-51a882205">SOC Analyst , RedTeamer</a> and sometimes a <a href="https://github.com/Y0GESH1">Coder</a></h1>
+<h1>Hi, I'm Yogesh  <br/><a href="https://pk.linkedin.com/in/yogesh-motwani-51a882205">Threat Hunter , RedTeamer</a> and sometimes a <a href="https://github.com/Y0GESH1">Coder</a></h1>
 
 I have been working as a cybersecurity analyst for last couple years (since 2019) and i try to learn both defensive and offenisve aspects of security.This includes alot of different things log analysis , system and network forensic analysis , Threat hunting with mitre framework.
 
