@@ -59,7 +59,6 @@ Languages & Technologies: `SIEM : IBM QRADAR `,`FireEye Tools : [HX(Host Securit
 
 Certifications:
 * [**AZ500 : Microsoft Azure Security Technologies**]() • In-progress
-* [**EJPT : eLearnSecurity Junior Penetration Tester**]() • In-progress
 
 
 <br/>
