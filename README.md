@@ -8,6 +8,8 @@ In my job, i get to play around with alot of different types of environments and
 
 As a security analyst (SOC Analyst), i get to work with alot of smart people and a number of Expensive toys
 * IBM Qradar
+* ELK
+* Wazuh
 * Steller Cyber XDR
 * Splunk
 * FireEye [HX , NX , EX]
