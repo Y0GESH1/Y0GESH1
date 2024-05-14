@@ -32,7 +32,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="200px" alt="Warpnet" src="https://github.com/Y0GESH1/Y0GESH1/blob/main/Work%20Experience/daraz.png?raw=true"/>](https://warpnet.nl/)
 **Senior Soc Analyst / Threat Hunter** \
 [**Daraz**](https://daraz.pk/) • Full Time \
-Time Period : March 20213 -  \
+Time Period : March 2023 - Feburary 2024  \
 Languages & Technologies: `Programming Language : Python , bash , powershell`, `Network Analysis Tools : [wireshark , tcpdump , zeek]`, `Windows Analysis : Sysmon`, `Memeory Analysis : Volatility`, `Vulnerability Assesment : Rapid7 Nexpose , Nessus`\
 <br/>
 <br/>
