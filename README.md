@@ -18,17 +18,23 @@ Cybersecurity professional with 5+ years of experience across SOC operations, th
 ### 🔧 Core Domains
 
 **OT / ICS Security**
-![IEC62443](https://img.shields.io/badge/-IEC%2062443-003B5C?style=for-the-badge)
-![SCADA](https://img.shields.io/badge/-SCADA%2FHMI-2E8B57?style=for-the-badge)
-![PKI](https://img.shields.io/badge/-PKI-4B0082?style=for-the-badge)
-![MITRE ATTACK ICS](https://img.shields.io/badge/-MITRE%20ATT%26CK%20ICS-CC2936?style=for-the-badge)
-![Zone Conduit](https://img.shields.io/badge/-Zone%2FConduit%20Design-1E3A5F?style=for-the-badge)
+![IEC62443](https://img.shields.io/badge/IEC%2062443-003B5C?style=for-the-badge)
+![SCADA](https://img.shields.io/badge/SCADA%2FHMI-2E8B57?style=for-the-badge)
+![PKI](https://img.shields.io/badge/PKI-4B0082?style=for-the-badge)
+![MITRE ATTACK ICS](https://img.shields.io/badge/MITRE%20ATT%26CK%20ICS-CC2936?style=for-the-badge)
+![Zone Conduit](https://img.shields.io/badge/Zone%2FConduit%20Design-1E3A5F?style=for-the-badge)
 
 **Cloud & SOC**
-[![My Skills](https://skillicons.dev/icons?i=azure,linux,docker,github,git)](https://skillicons.dev)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Automation / Scripting**
-[![My Skills](https://skillicons.dev/icons?i=python,powershell,bash)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
@@ -43,6 +49,9 @@ Cybersecurity professional with 5+ years of experience across SOC operations, th
 ---
 
 ### 💼 Experience
+
+<img align="right" width="90" src="https://github.com/Y0GESH1/Y0GESH1/blob/main/Work%20Experience/soc%20life.gif" />
+
 **OT Security Werkstudent**
 **Everllence** (formerly MAN Energy Solutions) · Germany
 *Nov 2025 – Present*
