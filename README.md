@@ -1,79 +1,122 @@
-<h1>Hi, I'm Yogesh  <br/><a href="https://pk.linkedin.com/in/yogesh-motwani-51a882205">Threat Hunter , RedTeamer</a> and sometimes a <a href="https://github.com/Y0GESH1">Coder</a></h1>
+<h1 align="center">Hi, I'm Yogesh 👋</h1>
+<h3 align="center">Security Engineer — OT Security | Cloud Security | AI Systems Security</h3>
 
-I have been working as a cybersecurity analyst for last couple years (since 2019) and i try to learn both defensive and offenisve aspects of security.This includes alot of different things log analysis , system and network forensic analysis , Threat hunting with mitre framework.
+<p align="center">
+<a href="https://pk.linkedin.com/in/yogesh-motwani-51a882205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+<a href="https://github.com/Y0GESH1" target="_blank"><img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:yogeshkumarmotwani@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+</p>
 
-In my job, i get to play around with alot of different types of environments and systems to make sure they are configured correctly for security use cases.
+---
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,nginx,azure,github,)](https://skillicons.dev)
+### About
 
-As a security analyst (SOC Analyst), i get to work with alot of smart people and a number of Expensive toys
-* IBM Qradar
-* ELK
-* Wazuh
-* Steller Cyber XDR
-* Splunk
-* FireEye [HX , NX , EX]
+Cybersecurity professional with 5+ years of experience across SOC operations, threat hunting, and web/cloud security, now specializing in **OT/ICS security**. Currently working as an **OT Security Werkstudent at Everllence** (formerly MAN Energy Solutions, Germany), applying **IEC 62443** to PKI deployment, asset hardening, zone/conduit modeling, and threat monitoring for air-gapped industrial environments. Pursuing an M.Sc. in Web and Data Science alongside Microsoft **SC-500** certification, with a growing focus on securing the convergence of IT, OT, and AI systems.
 
-But i like to build my own tools for custom use cases so I play around with python and some other languages whenever i get the chance. :hammer:
+---
 
+### 🔧 Core Domains
+
+**OT / ICS Security**
+![IEC62443](https://img.shields.io/badge/-IEC%2062443-003B5C?style=for-the-badge)
+![SCADA](https://img.shields.io/badge/-SCADA%2FHMI-2E8B57?style=for-the-badge)
+![PKI](https://img.shields.io/badge/-PKI-4B0082?style=for-the-badge)
+![MITRE ATTACK ICS](https://img.shields.io/badge/-MITRE%20ATT%26CK%20ICS-CC2936?style=for-the-badge)
+![Zone Conduit](https://img.shields.io/badge/-Zone%2FConduit%20Design-1E3A5F?style=for-the-badge)
+
+**Cloud & SOC**
+[![My Skills](https://skillicons.dev/icons?i=azure,linux,docker,github,git)](https://skillicons.dev)
+
+**Automation / Scripting**
 [![My Skills](https://skillicons.dev/icons?i=python,powershell,bash)](https://skillicons.dev)
 
-Recently i traded in my blue shirt for a red one and started moving towards offensive side.
-* Nessus Scanner
-* Rapid7 Nexpose Scanner
-* Metasploit
+---
 
- ### Work Experience (And YES the gif pretty much explains what i do)
-<img align="right" src="https://github.com/Y0GESH1/Y0GESH1/blob/main/Work%20Experience/soc%20life.gif" />
-In the overview below you will find my most recent work experience:
+### 🖥️ Tools I've Worked With
 
+**SIEM / XDR:** IBM QRadar, Elastic (ELK), Wazuh, Stellar Cyber XDR, Splunk
+**Endpoint / Network Security:** FireEye (HX/NX/EX), Sysmon, Wireshark, Zeek, tcpdump
+**Vulnerability Assessment:** Nessus, Rapid7 Nexpose, Metasploit
+**Forensics:** Volatility
+**OT-Specific:** Siemens SCALANCE switches/firewalls, data diodes & TAPs, Orbit 60, offline two-tier CA/PKI tooling
 
+---
 
-[<img align="left" height="94px" width="200px" alt="Warpnet" src="https://github.com/Y0GESH1/Y0GESH1/blob/main/Work%20Experience/daraz.png?raw=true"/>](https://warpnet.nl/)
-**Senior Soc Analyst / Threat Hunter** \
-[**Daraz**](https://daraz.pk/) • Full Time \
-Time Period : March 2023 - Feburary 2024  \
-Languages & Technologies: `Programming Language : Python , bash , powershell`, `Network Analysis Tools : [wireshark , tcpdump , zeek]`, `Windows Analysis : Sysmon`, `Memeory Analysis : Volatility`, `Vulnerability Assesment : Rapid7 Nexpose , Nessus`\
-<br/>
-<br/>
+### 💼 Experience
 
+<img align="right" width="90" src="https://github.com/Y0GESH1/Y0GESH1/blob/main/Work%20Experience/soc%20life.gif" />
 
+**OT Security Werkstudent**
+**Everllence** (formerly MAN Energy Solutions) · Germany
+*Nov 2025 – Present*
 
-[<img align="left" height="94px" width="200px" alt="Warpnet" src="https://github.com/Y0GESH1/Y0GESH1/blob/main/Work%20Experience/supersecure.jpg?raw=true"/>](https://warpnet.nl/)
+- Designed and built an offline two-tier PKI deployment pipeline (Root CA → Issuing CA → leaf certificates) in PowerShell for air-gapped OT environments aligned with IEC 62443 SL2.
+- Performed asset inventory and threat modeling using MITRE ATT&CK for ICS and STRIDE.
+- Conducted zone and conduit modeling based on company and client specifications; produced baseline security documentation, registers, and network diagrams.
+- Hardened Siemens switches and firewalls; secured dual-homed servers; deployed self-signed certificates for Orbit 60 security.
+- Evaluated data diode and network TAP assets for secure OT data flow.
+- Built and validated a test lab for internal OT asset penetration testing.
+- Automated disabling of unnecessary Windows services via PowerShell to reduce attack surface.
+- Currently developing endpoint detection capability for OT systems.
 
-**Senior Soc Analyst / Team Lead** \
-[**SuperSecure**](https://supersecure.pk/) • Full Time \
-Time Period :May 3rd 2021 - Jan 1st 2023 \
-Languages & Technologies: `SIEM : Steller Cyber XDR (Starlight) `,`FireEye Tools : [HX(Host Security) , NX(Network Security) , EX(Email Security)]`, `Programming Language : Python , bash , powershell`, `Network Analysis Tools : [wireshark , tcpdump , zeek]`, `Windows Analysis : Sysmon`, `Memeory Analysis : Volatility`, `Vulnerability Assesment : Rapid7 Nexpose , Nessus`\
-<br/>
-<br/>
+`PowerShell` `IEC 62443` `PKI` `MITRE ATT&CK ICS` `STRIDE` `SCADA/HMI`
 
-[<img align="left" height="94px" width="200px" alt="KPN" src="https://github.com/Y0GESH1/Y0GESH1/blob/main/Work%20Experience/rewterz.png?raw=true"/>](https://www.kpn.com/)
+---
 
-**SOC Analyst / Threat Hunter** \
-[**Rewterz**](https://https://www.rewterz.com/) • Full Time \
-Time Period :March 2019 - Feb 2021 \
-Languages & Technologies: `SIEM : IBM QRADAR `,`FireEye Tools : [HX(Host Security) , NX(Network Security) , EX(Email Security)]`, `Programming Language : Python`, `Network Analysis Tools : [wireshark , tcpdump]`, `Windows Analysis : Sysmon`, `Memeory Analysis : Volatility`\
-<br/>
-<br/>
+<img align="right" width="90" src="https://github.com/Y0GESH1/Y0GESH1/blob/main/Work%20Experience/daraz.png?raw=true" />
 
+**Senior SOC Analyst / Threat Hunter**
+**Daraz** · Full Time
+*March 2023 – February 2024*
 
+- Led threat hunting and web attack surface analysis for high-traffic, cloud-hosted services.
+- Monitored and mitigated 7–10 daily DDoS attacks via WAF, improving uptime by 65%.
+- Managed DLP alerts and produced threat intelligence reports, strengthening data governance and executive visibility.
+- Developed custom Python scripts for web traffic analysis and anomaly detection.
+- Built an automated credential leak detection pipeline (Python + OSINT) covering Telegram and paste sites.
+- Designed detection and takedown workflows for phishing domains impersonating Daraz.
 
-Certifications:
-* [**SC500 : Microsoft Azure Security Technologies**]() • In-progress
+`Python` `Bash` `PowerShell` `Wireshark` `Zeek` `Sysmon` `Volatility` `Nessus` `Rapid7 Nexpose`
 
+---
 
-<br/>
-<h2 align="center"> 🤳 Connect with me:</h2>
+<img align="right" width="90" src="https://github.com/Y0GESH1/Y0GESH1/blob/main/Work%20Experience/supersecure.jpg?raw=true" />
+
+**Senior SOC Analyst / Team Lead**
+**SuperSecure** · Full Time
+*May 2021 – January 2023*
+
+- Led a SOC team across multiple client environments, growing client coverage from 3 to 8 within two years.
+- Operated Stellar Cyber XDR (Starlight) and FireEye HX/NX/EX for host, network, and email security.
+- Delivered security briefings and training seminars to senior-level executives.
+
+`Stellar Cyber XDR` `FireEye HX/NX/EX` `Python` `Bash` `PowerShell` `Volatility`
+
+---
+
+<img align="right" width="90" src="https://github.com/Y0GESH1/Y0GESH1/blob/main/Work%20Experience/rewterz.png?raw=true" />
+
+**SOC Analyst / Threat Hunter**
+**Rewterz** · Full Time
+*March 2019 – February 2021*
+
+- Performed log analysis and threat hunting using IBM QRadar and MITRE ATT&CK.
+- Conducted network and host forensic analysis using Sysmon, Wireshark, tcpdump, and Volatility.
+
+`IBM QRadar` `Python` `Wireshark` `tcpdump` `Sysmon` `Volatility`
+
+---
+
+### 🎓 Certifications
+
+- Microsoft SC-500: Microsoft Security Operations Analyst — *In Progress*
+
+---
+
+<h3 align="center">🤳 Connect with me</h3>
 <p align="center">
-<a href="https://pk.linkedin.com/in/yogesh-motwani-51a882205" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a href="https://twitter.com/Y0gesh123" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<a href="mailto:yogeshkumarmotwani@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://github.com/Y0GESH1?tab=repositories"><img src="https://img.shields.io/badge/-github-171515?style=for-the-badge&logo=github&logoColor=white"></img></a>
-<!-- <a target="_blank" href="https://www.instagram.com/yogi_kumarr/"><img src="https://img.shields.io/badge/-instagram-4c68d7?style=for-the-badge&logo=instagram&logoColor=white"></img></a> -->
-
-<!-- <a target="_blank" href=""><img src="https://img.shields.io/badge/-snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></img></a>
- -->
-<br>
-</p>       
-
+<a href="https://pk.linkedin.com/in/yogesh-motwani-51a882205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+<a href="https://twitter.com/Y0gesh123" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="mailto:yogeshkumarmotwani@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<a href="https://github.com/Y0GESH1?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
