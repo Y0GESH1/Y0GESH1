@@ -50,9 +50,6 @@ Cybersecurity professional with 5+ years of experience across SOC operations, th
 ---
 
 ### 💼 Experience
-
-<img align="right" width="90" src="https://github.com/Y0GESH1/Y0GESH1/blob/main/Work%20Experience/soc%20life.gif" />
-
 **OT Security Werkstudent**
 **Everllence** (formerly MAN Energy Solutions) · Germany
 *Nov 2025 – Present*
