@@ -16,8 +16,8 @@ Cybersecurity professional with 5+ years of experience across SOC operations, th
 ---
 
 ### 🔧 Core Domains
-
 **OT / ICS Security**
+<br/>
 ![IEC62443](https://img.shields.io/badge/IEC%2062443-003B5C?style=for-the-badge)
 ![SCADA](https://img.shields.io/badge/SCADA%2FHMI-2E8B57?style=for-the-badge)
 ![PKI](https://img.shields.io/badge/PKI-4B0082?style=for-the-badge)
@@ -25,6 +25,7 @@ Cybersecurity professional with 5+ years of experience across SOC operations, th
 ![Zone Conduit](https://img.shields.io/badge/Zone%2FConduit%20Design-1E3A5F?style=for-the-badge)
 
 **Cloud & SOC**
+<br/>
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -32,10 +33,10 @@ Cybersecurity professional with 5+ years of experience across SOC operations, th
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Automation / Scripting**
+<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
 ---
 
 ### 🖥️ Tools I've Worked With
